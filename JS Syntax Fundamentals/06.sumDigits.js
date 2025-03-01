@@ -9,3 +9,5 @@ function solve(num) {
 
 solve(245678);
 solve(97561);
+
+/*Write a function, which will be given a single number. Your task is to find the sum of its digit*/
